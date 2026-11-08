@@ -21,6 +21,7 @@ Source is public; this is a learning project, not a stable production release.
 
 | Repository | What I am exploring |
 | --- | --- |
+| [marimay-workspace](https://github.com/marimay-lang/marimay-workspace) | The collection index and tested offline export and restore tools |
 | [tree-sitter-marimay](https://github.com/marimay-lang/tree-sitter-marimay) | Parsing and syntax highlighting |
 | [marimay-zed](https://github.com/marimay-lang/marimay-zed) | A small Zed language extension |
 | [algorithm-benchmarks](https://github.com/marimay-lang/algorithm-benchmarks) | Reproducible algorithm and runtime measurements |
